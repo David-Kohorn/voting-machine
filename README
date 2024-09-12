@@ -1,4 +1,5 @@
 # voting-machine
+
 To use the program, ensure all files are downloaded to the same directory and run VotingMachine.java
 
 This project contains a simulated election where users can modify ballot candiates, vote for candidates and calculate the winner of the election. 
